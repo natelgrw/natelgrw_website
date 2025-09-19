@@ -4,7 +4,7 @@ Hey! I'm Nathan Leung, an Electrical Engineering & Computer Science student at M
 
 This website showcases my tech portfolio through academic research and interdisciplinary work.
 
-![Website Preview](public/images/website_prv.png)
+![Website Preview](./public/images/website_prv.png)
 
 ## 🎷 About This Website
 
