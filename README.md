@@ -26,7 +26,7 @@ The site uses a modern, futuristic design with animated particles, neon effects,
 
 ## 🏒 Development
 
-To run this website locally:
+To access this website's UI/UX template:
 
 ```bash
 git clone https://github.com/natelgrw/natelgrw_website.git
