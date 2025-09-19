@@ -4,7 +4,9 @@ Hey! I'm Nathan Leung, an Electrical Engineering & Computer Science student at M
 
 This website showcases my tech portfolio through academic research and interdisciplinary work.
 
-I like making cool stuff - whether it’s exploring trends in machine learning, tinkering with embedded systems, or making side projects. This site is where I dump all the things I’m working on. Feel free to see what I’ve been up to!
+I like making cool stuff - whether it’s exploring trends in machine learning, tinkering with embedded systems, or making side projects. This site is where I dump all the things I’m working on. 
+
+Feel free to see what I’ve been up to!
 
 
 ![Website Preview](./public/images/website_prv.png)
