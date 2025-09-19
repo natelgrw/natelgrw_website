@@ -10,10 +10,6 @@ My website is accessible [here](https://natelgrw.com).
 
 Feel free to see what I’ve been up to!
 
-
-![Website Preview](./public/images/website_prv.png)
-
-
 ## 🎷 About This Website
 
 This website features:
@@ -23,6 +19,10 @@ This website features:
 - **Connect**: Ways to get in touch with me
 
 The site uses a modern, futuristic design with animated particles, neon effects, and a sleek, glassmorphic vibe.
+
+
+![Website Preview](./public/images/website_prv.png)
+
 
 ## 🏒 Development
 
