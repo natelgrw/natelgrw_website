@@ -4,12 +4,14 @@ Hey! I'm Nathan Leung, an Electrical Engineering & Computer Science student at M
 
 This website showcases my tech portfolio through academic research and interdisciplinary work.
 
+![Website Preview](public/images/website_prv.png)
+
 ## 🎷 About This Website
 
 This website features:
 - **Hero Section**: Introduction with my background and social links
 - **Experience**: Current research positions at IBM Research and MIT EECS
-- **Projects**: Showcase of my work in AI, machine learning, and software engineering
+- **Projects**: Portfolio of my work in AI, machine learning, and software engineering
 - **Connect**: Ways to get in touch with me
 
 The site uses a modern, futuristic design with animated particles, neon effects, and a sleek, glassmorphic vibe.
