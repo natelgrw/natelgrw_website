@@ -6,6 +6,8 @@ This website showcases my tech portfolio through academic research and interdisc
 
 I like making cool stuff - whether it’s exploring trends in machine learning, tinkering with embedded systems, or making side projects. This site is where I dump all the things I’m working on. 
 
+My website is accessible [here](https://natelgrw.com)!
+
 Feel free to see what I’ve been up to!
 
 
